@@ -1,5 +1,5 @@
 {
-	"name": "google-maps",
+	"name": "google-maps-iso",
 	"description": "Wrapper for asynchronously used Google Maps API",
 	"version": "3.2.1",
 	"author": {
