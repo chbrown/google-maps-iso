@@ -1,6 +1,6 @@
 {
-	"name": "google-maps",
-	"main": "lib/Google.js",
+	"name": "google-maps-iso",
+	"main": "index.js",
 	"ignore": [
 		"node_modules",
 		"test",
