@@ -5,7 +5,7 @@ var loading = false;
 var callbacks = [];
 var onLoadEvents = [];
 var originalCreateLoaderMethod = null;
-exports.URL = 'https://maps.googleapis.com/maps/api/js';
+exports.URL = '//maps.googleapis.com/maps/api/js';
 exports.KEY = null;
 exports.LIBRARIES = [];
 exports.CLIENT = null;
@@ -42,7 +42,7 @@ function createLoader() {
   script.type = 'text/javascript';
   script.src = createUrl();
 
-  document.body.appendChild(script);
+  document.head.appendChild(script);
 }
 exports.createLoader = createLoader;
 
