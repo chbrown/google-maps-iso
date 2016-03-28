@@ -1,10 +1,8 @@
-[![NPM version](https://img.shields.io/npm/v/google-maps.svg?style=flat-square)](https://www.npmjs.com/package/google-maps)
-[![Dependency Status](https://img.shields.io/gemnasium/Carrooi/Node-GoogleMaps.svg?style=flat-square)](https://gemnasium.com/Carrooi/Node-GoogleMaps)
-[![Build Status](https://img.shields.io/travis/Carrooi/Node-GoogleMaps.svg?style=flat-square)](https://travis-ci.org/Carrooi/Node-GoogleMaps)
+# google-maps-iso
 
-[![Donate](https://img.shields.io/badge/donate-PayPal-brightgreen.svg?style=flat-square)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=ARUCDRF95XRBA)
-
-# Google Maps
+[![npm version](https://badge.fury.io/js/google-maps-iso.svg)](https://www.npmjs.com/package/google-maps-iso)
+[![Travis CI Build Status](https://travis-ci.org/chbrown/google-maps-iso.svg)](https://travis-ci.org/chbrown/google-maps-iso)
+[![Coverage Status](https://coveralls.io/repos/chbrown/google-maps-iso/badge.svg)](https://coveralls.io/github/chbrown/google-maps-iso)
 
 Wrapper for asynchronously used Google Maps API in browser.
 
